@@ -1,0 +1,11 @@
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe.config
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.pdb
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.csprojResolveAssemblyReference.cache
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.exe
+c:\users\semra\documents\visual studio 2015\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.pdb
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe.config
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.exe
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.pdb
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.pdb
