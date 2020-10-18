@@ -9,7 +9,6 @@ namespace MarsRoverApp
         static void Main(string[] args)
         {
             Boolean isNewRover = true;
-            int i = 0;
             var plateauPoints = Console.ReadLine().Trim().Split(' ');
             Plateau plateau = new Plateau();
             PlateauCoordinationValidaton plateauCoordinationValidaton = new PlateauCoordinationValidaton(plateauPoints.ToArray());
@@ -41,7 +40,6 @@ namespace MarsRoverApp
 
                 Console.WriteLine("Do you want to go on with new rover? Please select Y or N");
                 isNewRover = Console.ReadLine() == "Y" ? true : false;
-                i++;
             }
 
             foreach (Rover rover in plateau.rovers)

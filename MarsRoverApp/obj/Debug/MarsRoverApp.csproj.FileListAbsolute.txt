@@ -9,3 +9,4 @@ C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.exe
 C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.pdb
 C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe
 C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.pdb
+C:\Users\Semra\Desktop\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.csprojResolveAssemblyReference.cache
